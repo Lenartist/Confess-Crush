@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'I knew it, love you too dear ^^',
     messDesc: 'You are getting close to your treasure, inbox me for the next step',
     btnAccept: 'Okie',
-   
+    messlink:
 }
